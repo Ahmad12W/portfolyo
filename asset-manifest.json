@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/portfolyo/static/css/main.c3131f82.css",
+    "main.js": "/portfolyo/static/js/main.bda1fca1.js",
+    "static/js/787.48770a16.chunk.js": "/portfolyo/static/js/787.48770a16.chunk.js",
+    "static/media/A.png": "/portfolyo/static/media/A.d4efbd2e922a8bb7c875.png",
+    "static/media/color-sharp.png": "/portfolyo/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/color-sharp2.png": "/portfolyo/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/bac1.jpg": "/portfolyo/static/media/bac1.cc1273af450504afe755.jpg",
+    "static/media/updaw.svg": "/portfolyo/static/media/updaw.84bf93eb20488a753440bf83d27db7bb.svg",
+    "static/media/project-img1.png": "/portfolyo/static/media/project-img1.d593db3f12901bc685c2.png",
+    "static/media/project-img2.png": "/portfolyo/static/media/project-img2.2e52097c417f9f1134b0.png",
+    "static/media/project-img3.png": "/portfolyo/static/media/project-img3.675b30d2f975a1bc1d09.png",
+    "static/media/contact-img.svg": "/portfolyo/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
+    "static/media/revicons.eot": "/portfolyo/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/portfolyo/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/portfolyo/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/meter2.svg": "/portfolyo/static/media/meter2.1b8f416eccd1ee162218b8528a1c5cdc.svg",
+    "static/media/meter1.svg": "/portfolyo/static/media/meter1.c4085ff859afbd8488e9da47d4953850.svg",
+    "static/media/meter3.svg": "/portfolyo/static/media/meter3.2201f7e4df22bc4b08180210474f28cc.svg",
+    "index.html": "/portfolyo/index.html",
+    "main.c3131f82.css.map": "/portfolyo/static/css/main.c3131f82.css.map",
+    "main.bda1fca1.js.map": "/portfolyo/static/js/main.bda1fca1.js.map",
+    "787.48770a16.chunk.js.map": "/portfolyo/static/js/787.48770a16.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3131f82.css",
+    "static/js/main.bda1fca1.js"
+  ]
+}
